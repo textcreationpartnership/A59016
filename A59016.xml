@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second seasonable speech made by an honourable member of the House of Commons demonstrating the necessity of the Kings restauration by this present Parliament.</title>
+            <author>Honourable member of the House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59016</idno>
+            <idno type="STC">Wing S2334</idno>
+            <idno type="STC">ESTC R17481</idno>
+            <idno type="EEBO-CITATION">12166051</idno>
+            <idno type="OCLC">ocm 12166051</idno>
+            <idno type="VID">55321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 823:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second seasonable speech made by an honourable member of the House of Commons demonstrating the necessity of the Kings restauration by this present Parliament.</title>
+                  <author>Honourable member of the House of Commons.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:55321:1"/>
+            <pb facs="tcp:55321:1" rendition="simple:additions"/>
+            <p>A ſecond Seaſonable SPEECH Made by an Honourable MEMBER Of the HOUSE OF COMMONS, <hi>DEMONSTRATING</hi> The Neceſſity of the KINGS Reſtauration by this preſent Parliament.</p>
+            <p>LONDON, Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:55321:2"/>
+            <pb n="1" facs="tcp:55321:2"/>
+            <head>A ſecond Seaſonable SPEECH Made by an Honourable Mem<g ref="char:EOLhyphen"/>ber of the Houſe of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>IN this place, (the great Receipt of Grievances) give me leave to ſay, 'tis not the leaſt of mine, that Wiſemen being believ'd to admire no<g ref="char:EOLhyphen"/>thing: I ſee, there's as great a neceſſity of my appearing ſufficiently remov'd from that rank of men, as there is, of my avowing, that, there is nothing here done, which I do not admire. I have yet this of Felicity, that ſince I muſt want the advan<g ref="char:EOLhyphen"/>tage of being by you reputed wiſe, now, when I de<g ref="char:EOLhyphen"/>ſire,
+<pb n="2" facs="tcp:55321:3"/>
+and need it moſt, to enforce what I have to ſay: the Truths I am to diſcourſe of are yet of themſelvs ſo palpable, that an eſteem of the Speaker needs contri<g ref="char:EOLhyphen"/>bute but little to the procuring them a Belief. My Wonder, how great ſoever, equals not my ſhame, that I ſee my ſelf One of thoſe Many, have ſate ſo long in ſo great an Exigency, and done ſo little. I look not up<g ref="char:EOLhyphen"/>on the late Extravagancies and Diſorders, this Nati<g ref="char:EOLhyphen"/>on has laboured under, ſo worthy my Diſlike, or Admiration, as our preſent Lethargy, and unactive<g ref="char:EOLhyphen"/>neſſe in not redreſſing thoſe Diſtempers, which, if ſooner remov'd, muſt yet have been confeſt, to have had too long a continuance. That we came hither for this only end, will be ſooner granted me by all, then a reaſon given me by any, why 't is not done. If the difficulty be too great for us, we did ill in re-aſſu<g ref="char:EOLhyphen"/>ming our Seats at all; and do yet worſe, in not leaving them now, to more enabled Perſons. We have not the Plea of being oppreſt with Plenty. I cannot ſee ſuch varietie of wayes apted for a Compoſure, as need en<g ref="char:EOLhyphen"/>gage us to the delay of conſidering which is beſt: Providence, and wiſe Fate having afforded us but one, leaſt in a Liberty we ſhould chooſe for our ſelves a Bleſſing, far leſſe, than kind Neceſſity intends us.</p>
+            <p>That the recalling of our King is this only way, is already grown almoſt as viſible as true: and were it but confeſt by all of whom 'tis believ'd, I ſhould hear from the greateſt part of this Houſe, what now it hears alone from me.</p>
+            <p>Had we as little reaſon to fear, as we have too much, that if we bring not in the King, he either already is, or ſhortly may be in a Capacity of comming in unſent for: Methinks the knowledge of his Right, were alone enough to keep juſt Perſons (ſuch as we would be conceiv'd) from being acceſſary to his longer ab<g ref="char:EOLhyphen"/>ſence. Had we but the Bravery of ſome Heathens Story gives us names of, we ſhould ſcorn there ſhould
+<pb n="3" facs="tcp:55321:3"/>
+be any could object to us, they wanted the Right and Juſtice we had a Power to do them. We are already, and but too juſtly, reputed to have been the occaſion of our Prince's exile, we may with reaſon and equal Truth, (for ought I know) be thought to have been the Contrivers of it too, unleſſe we evidence the con<g ref="char:EOLhyphen"/>trary, by not ſuffering the Miſchief to continue lon<g ref="char:EOLhyphen"/>ger, which is now in our power to remove.</p>
+            <p>Beſides his right, inducement enough to engage his Subjects to his reſtauration, there's eminent in him ſo great, and ſo confeſs'd a worth, that had he been born where he has been forc'd too long to re<g ref="char:EOLhyphen"/>ſide, and had been alwayes as much a ſtranger, as he has been theſe late years to <hi>England,</hi> yet his virtues ſingly conſidered, abſtracted from any pretence, ſpeak him the perſon moſt worthy of our choice: and were he as deſtitute, as he is bleſs'd with a title, we could not pretermit him, without publiſhing our ignorance, or diſreſpect, of the moſt noted, and moſt coveted perfection this day has a being.</p>
+            <p>To Omit (ſince 'tis impoſſible to enumerate all) the Excellencies whith are leaſt his, I mean his gifts of Nature, give me leave to remarque (what we have moſt reaſon to know) ſome few of thoſe many ac<g ref="char:EOLhyphen"/>quirements he is oblig'd to our ill uſage for. He has made his notices of all the Governments in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and knows the affairs of each State in <hi>Chriſten<g ref="char:EOLhyphen"/>dom,</hi> as well, nay perhaps (through our faults) bet<g ref="char:EOLhyphen"/>ter than thoſe of his own Countrie. He underſtands ſo perfectly forein Dialects, that in all Audiences, his Grandeur, not He, will require the impertinencie of an interpreter. He has not altered his mind, in the varietie of climes, nor could be ever tempted, ſo much as to exchange his Religion, to be re-eſtab<g ref="char:EOLhyphen"/>liſhed in that throne, his adverſaries quite loſt theirs, to diſpoſſeſſes him of. And after all, his ene<g ref="char:EOLhyphen"/>mies
+<pb n="4" facs="tcp:55321:4"/>
+malice (by a moſt wiſe contrivance) inſtead of rendring him (as they wiſht) abſolutely incapable, has but the more adapted, and fitted him for Em<g ref="char:EOLhyphen"/>pire.</p>
+            <p>This is ſo true, and ſo well underſtood, that we all believe, whatſoever our's are, theſe will be the thoughts of the ſucceeding Parliament. Theſe Nati<g ref="char:EOLhyphen"/>ons, and with good reaſon, do ſo much long for their Prince, and dread their being by the next (as alrea<g ref="char:EOLhyphen"/>dy by this Parliament) diſappointed, that we muſt rationally conceive, that to be aſcertain'd of ſuc<g ref="char:EOLhyphen"/>ceeding, they will make Election of ſuch perſons, whoſe concerns, as well as affections, ſhall make them active for his Introduction.</p>
+            <p>And, I appeal then to your own judgements, whe<g ref="char:EOLhyphen"/>ther 'tis likely thoſe Perſons, as to their particular Intereſt more unconcern'd, and probably leſſe know<g ref="char:EOLhyphen"/>ing in the affairs of the Nation, can or would obtain for any thoſe terms, we are yet in a Capacitie of procuring both for them and us.</p>
+            <p>I muſt profeſſe ſincerely, 't would be as ſtrange to me, as a miracle, did I not know, that God infatuates whom he deſigns to deſtroy, that we can ſee the King's return to be unavoidable, and yet be no waies Studious of ſerving him, or at leaſt our ſelves, in the managerie of his recall.</p>
+            <p>The people, though ſenſible enough, were the Houſe of Lords re-admitted with how little reaſon then, we could pretend to be a Parliament, and therefore with how much leſſe, now they are exclu<g ref="char:EOLhyphen"/>ded; would yet contentedly allow, we have Autho<g ref="char:EOLhyphen"/>rity enough, to act the things they wiſh, and without queſtioning by what hand their felicitie was con<g ref="char:EOLhyphen"/>veighed to them, Enjoy it with a content uncapa<g ref="char:EOLhyphen"/>ble of being allayed, even by a diſcoverie of it's ir<g ref="char:EOLhyphen"/>regular procurement.</p>
+            <p>The General, that noble Perſonage, to whom, un<g ref="char:EOLhyphen"/>der
+<pb n="5" facs="tcp:55321:4"/>
+God, we doe and muſt owe all the advantages of our paſt, and future changes, will be as far from op<g ref="char:EOLhyphen"/>poſing us in this deſign, as the deſign is remov'd from the diſadvantage of the Nation. He himſelf is, I'm confident of the ſame opinion: and if he has given already no notice of it to the Houſe, 'tis not, that he does not look upon it as the greateſt expedi<g ref="char:EOLhyphen"/>ent, but he only forbears to propoſe it, that he might not ſeem to neceſſitate us, and by an over<g ref="char:EOLhyphen"/>early diſcovery of his own judgement, be thought to take from us, the freedom of ours. Beſides, we all ſee how much 'tis his proper intereſt, and though he has honour enough, to endeavour the happineſſe of his Prince without any other recompence than that of the ſatisfaction he will receive from the ſenſe of ſo brave an action, yet has he no reaſon to believe he ſhall want any of the reſpects and honours, his relation and deſervings can oblige a juſt Prince to make him a return of.</p>
+            <p>Though I hope, now we have ſeen how much eve<g ref="char:EOLhyphen"/>ry thing advances the neceſſity and facility of our So<g ref="char:EOLhyphen"/>veraigns return: there needs no new motives to en<g ref="char:EOLhyphen"/>gage our powers and miniſteries into a complyance with fate: give me leave yet to ſay, that if there did, the very conſideration, that we can thus onely ſave our ſinking honour, and reſcue the name of Parlia<g ref="char:EOLhyphen"/>ments from an inauſpiciouneſs, ſhould i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove us in theſe thoughts, and preſſe us to a reſolvedneſſe. How fair ſhall we appear in ſtorie? when from every pen, that amongſt other ills mentions our ſecluſion, there drops this obſervation, That we and villany were ſo inconſiſte<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that it was indiſpenſably neceſſary that we ſhould be removed, when that was to take place, and that the ſucceeding miſchiefs (acted whi<g ref="char:EOLhyphen"/>leſt a force often varied, never diſcontinued oppreſt, the Parliament) vaniſhed as ſoon as Providence bleſt
+<pb n="6" facs="tcp:55321:5"/>
+us with an opportunity of evidencing by our remo<g ref="char:EOLhyphen"/>ving them, how far we had alwayes been from ha<g ref="char:EOLhyphen"/>ving i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>troc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed them.</p>
+            <p>But to ſay no more in a buſineſſe wherein I ought to hope, I have ſaid already more then needed: I ſhall onely beg, that a concern of this moment may have your firſt conſiderations, and that thoſe Gentlemen (if there be any ſuch) whoſe Caprice and Petulan<g ref="char:EOLhyphen"/>cy ſhall againſt all reaſon engage them to an oppoſi<g ref="char:EOLhyphen"/>tion, would take care to be preaſſur'd, they may not be expos'd, by poſting up their names, to the fury of the abuſed people. I wiſh their apprehenſion of this dan<g ref="char:EOLhyphen"/>ger may make them ſtudious to prevent it; If it does not, they run the hazard of this courſe (a trick alrea<g ref="char:EOLhyphen"/>dy tried) which though I do not approve, yet I muſt confeſſe is abundantly apt to work a change, and to render thoſe perſons ſufficiently averſe before, diſ<g ref="char:EOLhyphen"/>pos'd, to tender the peoples ſafety, as they do their own.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
